@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yunsjxh&color=blueviolet&style=flat-square&label=访客数" alt="访客数" />
+  <img src="https://komarev.com/ghpvc/?username=yunsjxh&color=blueviolet&style=flat-square&label=Views" alt="Profile Views" />
 </p>
 
 ---
@@ -29,17 +29,10 @@
 
 ---
 
-### 💻 常用技术
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,cpp,git,github,vscode,linux&theme=dark" />
-</p>
-
----
 
 ### 📫 联系我
 
 <p align="center">
-  <a href="mailto:你的邮箱@example.com"><img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:44338179@qq.com"><img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/yunsjxh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
