@@ -1,9 +1,11 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+page!👋;我是+yunsjxh;很高兴见到你!&center=true&size=30">
-</h1>
-
+<!-- 粉色波浪标题 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yunsjxh&color=blueviolet&style=flat-square&label=Views" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fecfef&height=180&section=header&text=nya~%20welcome!&fontSize=45&fontAlignY=35&desc=By%20yunsjxh%20🐾&descAlignY=60&fontColor=fff"/>
+</p>
+
+<!-- 可爱打字机 -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=16岁编程菜鸟喵ฅ^•ﻌ•^ฅ;最喜欢C%2B%2B小姐喵💗;star一下会开心到冒泡喵🫧&font=Noto+Sans+SC&center=true&size=24&duration=3000&pause=1000&color=FF69B4">
 </p>
 
 ---
